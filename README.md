@@ -18,5 +18,4 @@ I have created this project in such a sense that when new data comes along I wil
 1.3 PROJECT GOAL 
 
 The main objective of this project is to use the data about all the video game sales and build a predictive Machine learning model to check whether the sale of a video game will be high or not. 
-
 In addition to this we can also use this dataset to check in which region (North America, Europe, Japan) will the sales be high and low.
